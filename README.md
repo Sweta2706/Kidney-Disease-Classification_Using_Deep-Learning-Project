@@ -1,1 +1,1 @@
-# Kidney_Disease_Classification_Using_Deep-Learning
+# Kidney-Disease-Classification_Using_Deep-Learning
