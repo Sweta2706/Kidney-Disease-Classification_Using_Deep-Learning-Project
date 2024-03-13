@@ -1,4 +1,4 @@
-# Kidney-Disease-Classification-Using-MLflow-DVC
+# NephroDetect_Kidney-Disease-Classification-Using-MLflow-DVC
 
 
 ## Workflows of the Project
