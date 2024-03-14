@@ -2,10 +2,10 @@ Metadata-Version: 2.1
 Name: cnnClassifier
 Version: 0.0.0
 Summary: A small python package for CNN app
-Home-page: https://github.com/Sweta2706/Kidney-Disease-Classification_Using_Deep-Learning-Project
+Home-page: https://github.com/Sweta2706/NephroDetect_Deep-Learning-Framework-For-Kidney-Disease-Classification
 Author: Sweta2706
 Author-email: sweta270602@gmail.com
-Project-URL: Bug Tracker, https://github.com/Sweta2706/Kidney-Disease-Classification_Using_Deep-Learning-Project/issues
+Project-URL: Bug Tracker, https://github.com/Sweta2706/NephroDetect_Deep-Learning-Framework-For-Kidney-Disease-Classification/issues
 
 # NephroDetect_Kidney-Disease-Classification-Using-MLflow-DVC
 

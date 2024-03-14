@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Kidney-Disease-Classification_Using_Deep-Learning-Project"
+REPO_NAME = "NephroDetect_Deep-Learning-Framework-For-Kidney-Disease-Classification"
 AUTHOR_USER_NAME = "Sweta2706"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "sweta270602@gmail.com"
