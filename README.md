@@ -20,4 +20,4 @@
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/Sweta2706/NephroDetect_Deep-Learning-Framework-For-Kidney-Disease-Classification
